@@ -1,0 +1,22 @@
+body {
+  font-family: "Helvetica Neue", "Helvetica", "Hiragino Sans",
+    "Hiragino Kaku Gothic ProN", "BIZ　UDPゴシック", "Arial", "Meiryo",
+    sans-serif;
+}
+
+ul {
+  padding-left: 24px;
+}
+
+table {
+  border: 1px solid #ccc;
+}
+
+table th:first-child {
+  width: 200px;
+}
+
+footer {
+  margin-top: 50px;
+  font-size: 12px;
+}
